@@ -1,0 +1,7 @@
+{
+  "name": "Stockann",
+  "description": "Una aplicación para gestionar inventario, ventas y clientes con funciones de IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
